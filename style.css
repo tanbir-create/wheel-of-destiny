@@ -347,7 +347,7 @@ html,
       animation: move_highlight 5s linear infinite;
     } */
     .spotlight_swivel {
-      /* animation: rotate_spotlight 5s ease-in-out infinite; */
+      animation: rotate_spotlight 5s ease-in-out infinite;
     }
     #sp1 .lamp {
       position: absolute;
@@ -432,7 +432,7 @@ html,
     }
 
     #sp2 .spotlight_swivel {
-      /* animation: rotate_spotlight2 5s ease-in-out infinite; */
+      animation: rotate_spotlight2 5s ease-in-out infinite;
     }
     @keyframes rotate_spotlight2 {
       0% {
